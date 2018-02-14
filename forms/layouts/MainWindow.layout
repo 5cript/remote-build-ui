@@ -1,0 +1,12 @@
+R"(
+	<margin=3
+		<vertical 
+			<vertical ProjectListFrame
+				<ProjectListLabel max=15>
+				<ProjectList>
+			>
+			<weight=3>
+			<Buttons max=23>
+		>
+	>
+)"

@@ -1,0 +1,17 @@
+R"(
+	<margin=3
+		<vertical 
+			<vertical
+				<vertical DiffBoxFrame
+					<DiffBox>
+				>
+				<vertical max=29
+					<weight=3>
+					<Buttons gap=3 max=23>
+					<weight=3>
+				>
+			>|<Log weight=40%>
+		>
+	>
+
+)"
